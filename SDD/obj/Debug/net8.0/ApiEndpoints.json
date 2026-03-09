@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SDD.ApiController.ValuesController",
+    "Method": "SendImage",
+    "RelativePath": "api/Values/send-base64-image",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EntityLayer.Concrate.Photo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

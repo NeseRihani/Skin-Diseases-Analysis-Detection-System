@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\apicontroller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:apicontroller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\views\\loginpage\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:views\\loginpage\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\views\\newanalyse\\addanalyse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:views\\newanalyse\\addanalyse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\views\\homepage\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:views\\homepage\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\controllers\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:controllers\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\views\\coment\\comentpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:views\\coment\\comentpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\controllers\\coment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:controllers\\coment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\sdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:sdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\controllers\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:controllers\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\views\\result\\resultpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:views\\result\\resultpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|c:\\users\\nese\\desktop\\skinanalyse\\sdd\\controllers\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1988A75-5716-4082-AE74-30B6101A71D2}|SDD.csproj|solutionrelative:controllers\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95388F43-8D12-406F-880B-2051359850C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\nese\\desktop\\skinanalyse\\businesslayer\\concrate\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95388F43-8D12-406F-880B-2051359850C4}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\nese\\desktop\\skinanalyse\\businesslayer\\abstruct\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4319530B-C488-4B93-9F05-08B1DDE60E3F}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\nese\\desktop\\skinanalyse\\dataaccesslayer\\abstruct\\ilogindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4319530B-C488-4B93-9F05-08B1DDE60E3F}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\nese\\desktop\\skinanalyse\\dataaccesslayer\\entityframework\\eflogindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4319530B-C488-4B93-9F05-08B1DDE60E3F}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\nese\\desktop\\skinanalyse\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4319530B-C488-4B93-9F05-08B1DDE60E3F}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\nese\\desktop\\skinanalyse\\dataaccesslayer\\context\\skinanalysecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04020F7D-6948-4BC9-9D74-8A34097F38A2}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\nese\\desktop\\skinanalyse\\entitylayer\\entitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4319530B-C488-4B93-9F05-08B1DDE60E3F}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\nese\\desktop\\skinanalyse\\dataaccesslayer\\migrations\\20250103122220_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\Shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\Shared\\Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Layout.cshtml",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T19:57:39.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAnalyse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\NewAnalyse\\AddAnalyse.cshtml",
+              "RelativeDocumentMoniker": "Views\\NewAnalyse\\AddAnalyse.cshtml",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\NewAnalyse\\AddAnalyse.cshtml",
+              "RelativeToolTip": "Views\\NewAnalyse\\AddAnalyse.cshtml",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAIwB0BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T19:53:56.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnaSayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\HomePage\\AnaSayfa.cshtml",
+              "RelativeDocumentMoniker": "Views\\HomePage\\AnaSayfa.cshtml",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\HomePage\\AnaSayfa.cshtml",
+              "RelativeToolTip": "Views\\HomePage\\AnaSayfa.cshtml",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAAAG0BAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T19:32:09.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SDD.csproj",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\SDD.csproj",
+              "RelativeDocumentMoniker": "SDD.csproj",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\SDD.csproj",
+              "RelativeToolTip": "SDD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T12:20:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComentPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\Coment\\ComentPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Coment\\ComentPage.cshtml",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\Coment\\ComentPage.cshtml",
+              "RelativeToolTip": "Views\\Coment\\ComentPage.cshtml",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAK4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T12:44:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\ApiController\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ApiController\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\ApiController\\ValuesController.cs",
+              "RelativeToolTip": "ApiController\\ValuesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:49:23.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\LoginPage\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\LoginPage\\login.cshtml",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\LoginPage\\login.cshtml",
+              "RelativeToolTip": "Views\\LoginPage\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T19:55:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Controllers\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Controllers\\LoginPage.cs",
+              "RelativeToolTip": "Controllers\\LoginPage.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:31:30.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T20:32:32.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\Result\\ResultPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Result\\ResultPage.cshtml",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Views\\Result\\ResultPage.cshtml",
+              "RelativeToolTip": "Views\\Result\\ResultPage.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T12:28:04.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Coment.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Controllers\\Coment.cs",
+              "RelativeDocumentMoniker": "Controllers\\Coment.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Controllers\\Coment.cs",
+              "RelativeToolTip": "Controllers\\Coment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:44:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Controllers\\HomePage.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Controllers\\HomePage.cs",
+              "RelativeToolTip": "Controllers\\HomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T20:41:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Controllers\\Result.cs",
+              "RelativeDocumentMoniker": "Controllers\\Result.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\SDD\\Controllers\\Result.cs",
+              "RelativeToolTip": "Controllers\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:27:51.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250103122220_mig.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\Migrations\\20250103122220_mig.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Migrations\\20250103122220_mig.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\Migrations\\20250103122220_mig.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Migrations\\20250103122220_mig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:22:21.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\BusinessLayer\\Concrate\\LoginManager.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Concrate\\LoginManager.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\BusinessLayer\\Concrate\\LoginManager.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Concrate\\LoginManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:16:03.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\BusinessLayer\\Abstruct\\ILoginService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Abstruct\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\BusinessLayer\\Abstruct\\ILoginService.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Abstruct\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:15:12.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILoginDal.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\Abstruct\\ILoginDal.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Abstruct\\ILoginDal.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\Abstruct\\ILoginDal.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Abstruct\\ILoginDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:14:15.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EfLoginDal.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\EntityFrameWork\\EfLoginDal.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\EntityFrameWork\\EfLoginDal.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\EntityFrameWork\\EfLoginDal.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\EntityFrameWork\\EfLoginDal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:10:26.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "..\\DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T12:10:03.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EntityLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\EntityLayer\\EntityLayer.csproj",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\EntityLayer.csproj",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\EntityLayer\\EntityLayer.csproj",
+              "RelativeToolTip": "..\\EntityLayer\\EntityLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T11:59:51.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SkinAnalyseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\Context\\SkinAnalyseContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Context\\SkinAnalyseContext.cs",
+              "ToolTip": "C:\\Users\\Nese\\Desktop\\SkinAnalyse\\DataAccessLayer\\Context\\SkinAnalyseContext.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Context\\SkinAnalyseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:46:00.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
