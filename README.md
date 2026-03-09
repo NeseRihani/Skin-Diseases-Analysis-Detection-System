@@ -22,4 +22,5 @@ The project is developed using **N-Tier (Layered) Architecture** to ensure susta
 * **Database:** SQL Server.
 
 ## 📸 Screenshots
-![Project Demo](./foto.png,./foto2.png )
+![Project Demo 1](./foto.png)
+![Project Demo 2](./foto2.png)
