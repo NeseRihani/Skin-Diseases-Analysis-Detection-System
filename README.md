@@ -22,4 +22,4 @@ The project is developed using **N-Tier (Layered) Architecture** to ensure susta
 * **Database:** SQL Server.
 
 ## 📸 Screenshots
-![Project Demo](./Skin Analyse Project/foto.png) (./Skin Analyse Project/foto2.pngfoto2.png)
+![Project Demo](./foto.png) (./foto2.png)
